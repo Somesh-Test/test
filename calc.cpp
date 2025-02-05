@@ -73,6 +73,7 @@ int main() {
     std::cout << "Subtract: " << calc.subtract(a, b) << std::endl;
     std::cout << "Multiply: " << calc.multiply(a, b) << std::endl;
     std::cout << "Divide: " << calc.divide(a, b) << std::endl;
+    std::cout << "Added to feature branch" << std::endl;
 
     return 0;
 }
