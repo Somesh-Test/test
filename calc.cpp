@@ -45,16 +45,6 @@
  */
 class Calculator {
 public:
-    Calculator()
-    {
-        std::cout << "These are the capabilities of class Calculator :- \nAdd\nSubtract\nMultiply\nDivide\n" << std::endl;
-    }
-
-    ~Calculator()
-    {
-        std::cout << std::endl << "Exiting Class, Bye Bye" << std::endl;
-    }
-
     double add(double a, double b) {
         return a + b;
     }
