@@ -7,5 +7,3 @@
 # Shana banne ki nakam koshish
 
 # Shana hu mai
-
-#Sab thik hai
